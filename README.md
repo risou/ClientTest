@@ -1,2 +1,3 @@
-ClientTest
+Github for Macテスト用のリポジトリ
 ==========
+#なのである。
